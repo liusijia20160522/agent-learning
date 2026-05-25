@@ -5,4 +5,4 @@
 - [ ] 确定第一个实战智能体的使用场景。
 - [ ] 对比 LangGraph、CrewAI、AutoGen、Semantic Kernel、OpenAI Agents SDK 的适用场景。
 - [x] 复测：解释“会调用工具”为什么不一定等于智能体。
-- [ ] 练习：用六要素描述一个查资料智能体。
+- [x] 练习：用六要素描述一个查资料智能体。
